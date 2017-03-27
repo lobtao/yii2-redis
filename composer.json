@@ -17,9 +17,6 @@
             "email": "mail@cebe.cc"
         }
     ],
-    "require": {
-        "lobtao/yii2": ">=2.0.4"
-    },
     "autoload": {
         "psr-4": { "yii\\redis\\": "" }
     },
